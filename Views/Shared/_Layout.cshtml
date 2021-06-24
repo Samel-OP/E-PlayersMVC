@@ -1,0 +1,107 @@
+﻿<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - EPlayersMVC</title>
+    <link rel="stylesheet" href="~/css/style.css" />
+</head>
+
+<body>
+    <header>
+        <div class="container_header">
+
+            <div class="container_logo">
+                <a asp-area="" asp-controller="Home" asp-action="Index">
+                    <img class="logo" src="/imagens/logo1.svg" alt="logo">
+                </a>
+            </div>
+            <nav class="nav_header">
+                <a asp-area="" asp-controller="Home" asp-action="Index">Início</a>
+                <a asp-area="#horarios" target="_parent">Horários</a>
+                <a href="#campeonatos" target="_parent">Campeonatos</a>
+                <a href="#resultados" target="_parent">Resultados</a>
+                <!--Não tem onde colocar resultados-->
+                <a href="#noticias" target="_parent">Notícias</a>
+
+                @if (ViewBag.UserName != null)
+                {
+                    <li class="login_saudacoes">Olá @ViewBag.UserName</li>
+                    <li><a asp-area="" asp-controller="Login" asp-action="Logout">Logout</a></li>
+                }
+
+                else
+                {
+                    <a asp-area="" asp-controller="Login" asp-action="Index">Login</a>
+                }
+            </nav>
+        </div>
+    </header>
+    <div>
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="footer_nav_iframe">
+        <div class="list_one">
+            <span class="titulo_list">Links Úteis</span>
+            <ul class="list">
+                <li>Regras de utilização</li>
+                <li>Suporte</li>
+                <li>Central de ajuda</li>
+                <li>Contato</li>
+            </ul>
+        </div>
+        <div class="list_two">
+            <span class="titulo_list">Páginas</span>
+            <ul class="list">
+                <a class="list_conteudo" href="index.html#inicio">
+                    <li>Início</li>
+                </a>
+                <a class="list_conteudo" href="index.html#campeonatos">
+                    <li>Campeonatos</li>
+                </a>
+                <a class="list_conteudo" href="index.html#resultados">
+                    <!--Não tem a página-->
+                    <li>Resultados</li>
+                </a>
+                <a class="list_conteudo" href="index.html#noticias">
+                    <li>Notícias</li>
+                </a>
+                <a class="list_conteudo" href="cadastro_jogador.html#cadastro_jogador">
+                    <li>Login/Cadastro</li>
+                </a>
+            </ul>
+        </div>
+        <div class="container_footer">
+            <a asp-area="" asp-controller="Home" asp-action="Index">
+                <img class="footer_logo" src="/imagens/logo.svg" alt="logo">
+            </a>
+        </div>
+        <div class="box_footer">
+            <span class="assine">Faça parte do nosso clã, assine nossa newsletter!</span>
+            <div class="escrever">
+                <div>
+                    <input class="email" type="email" placeholder="E-mail">
+                </div>
+                <div>
+                    <input class="cadastrar" type="button" onclick="alert('Cadastro Concluído')" value="Cadastrar">
+                </div>
+            </div>
+            <div class="siga">
+                <span>Siga-nos em:</span>
+                <img src="/imagens/instagram 1.png" alt="instagram logo">
+                <img src="/imagens/facebook 1.png" alt="facebook logo">
+                <img src="/imagens/youtube 1.png" alt="youtube logo">
+            </div>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+
+</html>

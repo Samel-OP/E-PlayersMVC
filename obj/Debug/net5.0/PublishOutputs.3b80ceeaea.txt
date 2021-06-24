@@ -1,0 +1,66 @@
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\EPlayersMVC.exe
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\wwwroot\css\style.css
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\wwwroot\favicon.ico
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\wwwroot\imagens\arhi.png
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\wwwroot\imagens\Counter-Strike-Logo 1.png
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\wwwroot\imagens\facebook 1.png
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\wwwroot\imagens\FIFA_logo 1.png
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\wwwroot\imagens\fla-logo 1.png
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\wwwroot\imagens\formula-1-logo 1.png
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\wwwroot\imagens\fundo-cadastro.png
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\wwwroot\imagens\fundo-time-cadastro.png
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\wwwroot\imagens\fundo.png
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\wwwroot\imagens\instagram 1.png
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\wwwroot\imagens\logo-lol 1.png
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\wwwroot\imagens\logo.svg
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\wwwroot\imagens\logo1.svg
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\wwwroot\imagens\maitre-yi.png
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\wwwroot\imagens\player.png
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\wwwroot\imagens\sk-logo 1.png
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\wwwroot\imagens\valorant-logo 1.png
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\wwwroot\imagens\youtube 1.png
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\wwwroot\img\Equipes\081d01bde46db037087c094da3f1afab.jpg
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\wwwroot\img\Equipes\padrao.png
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\wwwroot\img\Equipes\ue.jpg
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\wwwroot\js\site.js
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\LICENSE
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\jquery-validation\dist\additional-methods.js
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\jquery-validation\LICENSE.md
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\jquery\dist\jquery.js
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\jquery\dist\jquery.min.js
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\jquery\dist\jquery.min.map
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\jquery\LICENSE.txt
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\appsettings.Development.json
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\appsettings.json
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\EPlayersMVC.dll
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\EPlayersMVC.deps.json
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\EPlayersMVC.runtimeconfig.json
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\EPlayersMVC.pdb
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\EPlayersMVC.Views.dll
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\EPlayersMVC\bin\Debug\net5.0\publish\EPlayersMVC.Views.pdb

@@ -1,0 +1,57 @@
+@model Equipe
+@{
+
+    ViewData["Title"] = "Equipes";
+}
+
+<section id="#cadastro_time" class="container_banner_cadastro_times">
+    <h1 class="titulo_cadastro_times">Cadastro de @ViewData["Title"]</h1>
+</section>
+
+<div class="cadastro_box_times">
+    <div class="box_conteudo_cadastrar_times">
+        <form class="dados_cadastro_times" method="POST" action='@Url.Action("Cadastrar")'
+            enctype="multipart/form-data">
+
+            <label class="dados_pergunta_times">ID</label>
+            <input class="dados_times" type="text" name="IdEquipe" required>
+
+            <label class="dados_pergunta_times">Nome</label>
+            <input class="dados_times" type="text" name="Nome" required>
+
+            <label class="dados_pergunta_times">Emblema Imagem</label>
+            <div class="file_times">
+                @* <label for="file">Selecione o arquivo</label> *@
+                <input class="file" type="file" name="Imagem">
+            </div>
+
+            <button class="button_cadastrar_times" type="submit">Cadastrar</button>
+
+        </form>
+    </div>
+</div>
+<section class="box_lista_times">
+    <h2 class="titulo_times_tabela">Lista de Times</h2>
+
+    <table class="tabela_times">
+        <thead class="barra">
+            <th class="conteudo_tabela">ID</th>
+            <th class="conteudo_tabela">Nome</th>
+            <th class="conteudo_tabela2">Foto</th>
+        </thead>
+        <tbody>
+            @foreach (Equipe equipe in ViewBag.Equipes)
+            {
+                <tr>
+                    <td class="conteudo_tabela">@equipe.IdEquipe</td>
+                    <td class="conteudo_tabela">@equipe.Nome</td>
+                    <td class="conteudo_tabela2"><img src="/img/Equipes/@equipe.Imagem" alt="Imagem da equipe @equipe.Nome"
+                        width="50px"></td>
+                    <td><a asp-area="" asp-controller="Equipe" asp-action="Excluir"
+                        asp-route-id="@equipe.IdEquipe">Excluir</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</section>
